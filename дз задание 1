@@ -1,0 +1,6 @@
+a=int(input())
+print(a)
+if a%2:
+    print("Данное число четное")
+else:
+     print("Данное число не четное")
