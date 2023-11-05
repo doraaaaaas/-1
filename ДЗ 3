@@ -1,0 +1,8 @@
+number = 123
+sumn=0
+
+while number >0:
+    digit =number %10
+    sumn+= digit 
+    number //= 10
+print("Сумма цифр числа:", sum)    
